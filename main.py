@@ -22,7 +22,7 @@ class wordSpinner:
 		self.hasil=[]
 		self.texttest= []
 		self.master = master
-		self.master.title("Text Anonim Spinner by @adnan_todod_bgs")
+		self.master.title("Word Spinner by @beaviour")
 		self.topframe = Frame(self.master)
 		self.topframe.pack(fill=BOTH)
 		self.frame = Frame(self.master)
